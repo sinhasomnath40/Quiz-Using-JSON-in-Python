@@ -1,0 +1,42 @@
+[ 
+{"question": "Which city is host to the annual World Economic Forum?", 
+"options": ["A. Geneva", "B. Davos", "C. New York", "D. Paris"], "answer": "B. Davos"}
+, {"question": "The Reserve Bank of India recently amended its Know Your Customer (KYC) norms to allow which type of authentication?", 
+"options": ["A. Post-based authentication", "B. e-mail based authentication", "C. Video-based authentication", "D. Mobile-based authentication"], "answer": "C. Video-based authentication"}
+, {"question": "HDFC has completed the acquisition of majority stake in which private Insurance company recently?", 
+"options": ["A. Star Health and Allied insurance", "B. Apollo Munich Health Insurance", "C. Bajaj Allianz General Insurance", "D. IFFCO Tokio General Insurance"], "answer": "B. Apollo Munich Health Insurance"}
+, {"question": "Which Indian Private bank has launched an API Banking Portal with the highest number of virtual Application programming interfaces (API)?", 
+"options": ["A. HDFC Bank", "B. ICICI Bank", "C. Axis Bank", "D. IDBI Bank"], "answer": "B. ICICI Bank"}
+, {"question": "Indian Oil Corporation Ltd (IOCL) of India recently signed an MoU to assist the Petroleum Authority of which country?", 
+"options": ["A. Ghana", "B. Argentina", "C. Brazil", "D. Peru"], "answer": "A. Ghana"}
+, {"question": "Which Public Sector Enterprise under the Department of Chemicals and Petrochemicals was approved to be shut down recently?", 
+"options": ["A. Hindustan Fluorocarbons Limited (HFL)", "B. Brahmaputra Cracker and Polymer Ltd (BCPL)", "C. Hindustan Organic Chemicals Ltd (HOCL)", "D. HIL (India) Limited (HIL)"], "answer": "A. Hindustan Fluorocarbons Limited (HFL)"}
+, {"question": "Who has been appointed as the Executive Director of the Monetary Policy Department in the Reserve Bank of India?", 
+"options": ["A. Michael Patra", "B. Janak Raj", "C. B P Kanungo", "D. R Gandhi"], "answer": "B. Janak Raj"}
+, {"question": "Khadi wrist watches have been recently launched by the Khadi and Village Industries Commission, in association with which company?", 
+"options": ["A. Fossil", "B. Titan", "C. Timex", "D. Casio"], "answer": "B. Titan"}
+, {"question": "What is the estimated GDP growth rate of India in FY 21, according to the latest Economic Survey 2019-20?", 
+"options": ["A. 5- 5.5%", "B. 5.5- 6%", "C. 6- 6.5 %", "D. 6.5- 7%"], "answer": "C. 6- 6.5 %"}
+, {"question": "What is the name of the new scheme proposed in the budget, which is to be implemented by the Aviation Ministry, for transporting agricultural products?", 
+"options": ["A. Udan 5.0 scheme", "B. Kisan Udan Scheme", "C. Krishi Udan Scheme", "D. PM Kisan Udan Scheme"], "answer": "C. Krishi Udan Scheme"}
+, {"question": "The Department of telecommunications (DoT) recently approved the merger of consumer mobile operations of the Tata group with which telecom provider?", 
+"options": ["A. Jio", "B. Bharti Airtel", "C. Vodafone Idea", "D. BSNL"], "answer": "B. Bharti Airtel"}
+, {"question": "Who is the head of the High level expert group on farm exports, recently set up by the 15th Finance Commission?", 
+"options": ["A. N K Singh", "B. U K Sinha", "C. Tapan Ray", "D. Sanjiv Puri"], "answer": "D. Sanjiv Puri"}
+, {"question": "Microsoft is set to launch its third India Development Centre (IDC) in which city?", 
+"options": ["A. Gurugram", "B. Chennai", "C. Noida", "D. Mumbai"], "answer": "C. Noida"}
+, {"question": "Which Indian Steel Company recently acquired Bhander power plant in Gujarat from Edelweiss Asset Reconstruction Company?", 
+"options": ["A. Tata Steel", "B. JSW Steel", "C. Jindal Steel and Power", "D. ArcelorMittal Nippon Steel India"], "answer": "D. ArcelorMittal Nippon Steel India"}
+, {"question": "As per the recent ‘Direct Tax Vivaad Se Vishwas Bill 2020’, what is the time-limit within which the tax-payers can pay the due tax with waiver?", 
+"options": ["A. March 31, 2020", "B. May 31, 2020", "C. September 30, 2020", "D. December 31, 2020"], "answer": "A. March 31, 2020"}
+, {"question": "Which is the first Indian airline to partner with a Special Economic Zone (SEZ) for setting up warehousing facility?", 
+"options": ["A. IndiGo", "B. SpiceJet", "C. Vistara", "D. Jet Airways"], "answer": "B. SpiceJet"}
+, {"question": "The ‘COVID-19 Economic Response Task Force’, unveiled by the Prime Minister of India, is to be headed by which Union minister?", 
+"options": ["A. Piyush Goyal", "B. Harsh Vardhan", "C. Nirmala Sitharaman", "D. Rajnath Singh"], "answer": "C. Nirmala Sitharaman"}
+, {"question": "Which financial institution is set to launch ‘Swavalamban Express’ Train to promote entrepreneurship?", 
+"options": ["A. Small Industries Development Bank of India", "B. National Bank for Agriculture and Rural Development", "C. National Housing Bank", "D. Export and Import Bank of India"], "answer": "A. Small Industries Development Bank of India"}
+, {"question": "Former RBI Deputy governor R Gandhi and Ananth Narayan have been appointed on the board of which Indian bank?", 
+"options": ["A. State Bank of India", "B. Punjab National Bank", "C. Yes Bank", "D. Bank of Baroda"], "answer": "C. Yes Bank"}
+, {"question": "What is the current Cash Reserve Ratio, as per the recent announcement from the Reserve Bank of India?", 
+"options": ["A. 4%", "B. 3.75%", "C. 3.5%", "D. 3%"], "answer": "D. 3%"}
+]
